@@ -1,0 +1,27 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@asoltys/bip32": "^2.0.8",
+    "bchaddrjs": "^0.5.2",
+    "bitcoinjs-lib": "^6.0.1",
+    "coininfo": "^5.1.0",
+    "cryptocompare": "^1.0.0",
+    "discord.js": "^13.6.0",
+    "mongodb": "^4.3.1",
+    "node-fetch": "^2.6.7",
+    "ws": "^8.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}

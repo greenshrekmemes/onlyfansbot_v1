@@ -1,0 +1,19 @@
+{
+    "token": "",
+    "prefix": "o",
+    "embedColor": 45040,
+    "privateChannelCategory": "",
+    "pubkeys": {
+      "btc": "",
+      "ltc": "",
+      "bch": "",
+      "doge": ""
+    },
+    "price": 3,
+    "bulkPrice": 2,
+    "cryptoCompareApiKey": "",
+    "mongoUri": "mongodb://localhost:27017",
+    "servers": [
+        "ws://127.0.0.1:15232"
+    ]
+  }
